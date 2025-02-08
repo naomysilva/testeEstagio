@@ -1,0 +1,14 @@
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\vending_Machine\bin\Debug\net9.0\vending_Machine.exe
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\vending_Machine\bin\Debug\net9.0\vending_Machine.deps.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\vending_Machine\bin\Debug\net9.0\vending_Machine.runtimeconfig.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\vending_Machine\bin\Debug\net9.0\vending_Machine.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\vending_Machine\bin\Debug\net9.0\vending_Machine.pdb
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\vending_Machine\obj\Debug\net9.0\vending_Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\vending_Machine\obj\Debug\net9.0\vending_Machine.AssemblyInfoInputs.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\vending_Machine\obj\Debug\net9.0\vending_Machine.AssemblyInfo.cs
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\vending_Machine\obj\Debug\net9.0\vending_Machine.csproj.CoreCompileInputs.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\vending_Machine\obj\Debug\net9.0\vending_Machine.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\vending_Machine\obj\Debug\net9.0\refint\vending_Machine.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\vending_Machine\obj\Debug\net9.0\vending_Machine.pdb
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\vending_Machine\obj\Debug\net9.0\vending_Machine.genruntimeconfig.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\vending_Machine\obj\Debug\net9.0\ref\vending_Machine.dll
