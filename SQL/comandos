@@ -1,0 +1,39 @@
+1) SELECT 
+    p.id AS pessoa_id, 
+    p.nome, 
+    e.id AS evento_id, 
+    e.evento
+FROM tabela_pessoa p
+LEFT JOIN tabela_evento e ON p.id = e.pessoa_id;
+
+
+2) SELECT 
+    p.id AS pessoa_id, 
+    p.nome
+FROM tabela_pessoa p
+WHERE LOWER(p.nome) LIKE '%doe%';
+
+3)  INSERT INTO tabela_evento (evento, pessoa_id)
+VALUES ('Evento E', 5);
+
+4) UPDATE tabela_evento
+SET pessoa_id = 1
+WHERE evento = 'Evento D';
+
+5) DELETE FROM tabela_evento
+WHERE evento = 'Evento B';
+
+6) DELETE FROM tabela_pessoa
+WHERE id NOT IN (
+    SELECT DISTINCT pessoa_id
+    FROM tabela_evento
+    WHERE pessoa_id IS NOT NULL
+);
+
+7) ALTER TABLE tabela_pessoa
+ADD COLUMN idade INT;
+
+9)CREATE UNIQUE INDEX idx_telefone_unique
+ON tabela_telefone (telefone);
+
+10) DROP TABLE tabela_telefone;
