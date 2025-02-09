@@ -1,0 +1,15 @@
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularPremio\obj\Debug\net9.0\calcularPremio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularPremio\obj\Debug\net9.0\calcularPremio.AssemblyInfoInputs.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularPremio\obj\Debug\net9.0\calcularPremio.AssemblyInfo.cs
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularPremio\obj\Debug\net9.0\calcularPremio.csproj.CoreCompileInputs.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularPremio\obj\Debug\net9.0\calcularPremio.sourcelink.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularPremio\bin\Debug\net9.0\calcularPremio.exe
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularPremio\bin\Debug\net9.0\calcularPremio.deps.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularPremio\bin\Debug\net9.0\calcularPremio.runtimeconfig.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularPremio\bin\Debug\net9.0\calcularPremio.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularPremio\bin\Debug\net9.0\calcularPremio.pdb
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularPremio\obj\Debug\net9.0\calcularPremio.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularPremio\obj\Debug\net9.0\refint\calcularPremio.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularPremio\obj\Debug\net9.0\calcularPremio.pdb
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularPremio\obj\Debug\net9.0\calcularPremio.genruntimeconfig.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularPremio\obj\Debug\net9.0\ref\calcularPremio.dll
