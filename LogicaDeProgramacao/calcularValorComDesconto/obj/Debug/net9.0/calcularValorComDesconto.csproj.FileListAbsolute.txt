@@ -1,0 +1,15 @@
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularValorComDesconto\bin\Debug\net9.0\calcularValorComDesconto.exe
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularValorComDesconto\bin\Debug\net9.0\calcularValorComDesconto.deps.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularValorComDesconto\bin\Debug\net9.0\calcularValorComDesconto.runtimeconfig.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularValorComDesconto\bin\Debug\net9.0\calcularValorComDesconto.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularValorComDesconto\bin\Debug\net9.0\calcularValorComDesconto.pdb
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularValorComDesconto\obj\Debug\net9.0\calcularValorComDesconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularValorComDesconto\obj\Debug\net9.0\calcularValorComDesconto.AssemblyInfoInputs.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularValorComDesconto\obj\Debug\net9.0\calcularValorComDesconto.AssemblyInfo.cs
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularValorComDesconto\obj\Debug\net9.0\calcularValorComDesconto.csproj.CoreCompileInputs.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularValorComDesconto\obj\Debug\net9.0\calcularValorComDesconto.sourcelink.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularValorComDesconto\obj\Debug\net9.0\calcularValorComDesconto.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularValorComDesconto\obj\Debug\net9.0\refint\calcularValorComDesconto.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularValorComDesconto\obj\Debug\net9.0\calcularValorComDesconto.pdb
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularValorComDesconto\obj\Debug\net9.0\calcularValorComDesconto.genruntimeconfig.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\calcularValorComDesconto\obj\Debug\net9.0\ref\calcularValorComDesconto.dll

@@ -1,0 +1,15 @@
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorVogais\bin\Debug\net9.0\contadorVogais.exe
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorVogais\bin\Debug\net9.0\contadorVogais.deps.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorVogais\bin\Debug\net9.0\contadorVogais.runtimeconfig.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorVogais\bin\Debug\net9.0\contadorVogais.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorVogais\bin\Debug\net9.0\contadorVogais.pdb
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorVogais\obj\Debug\net9.0\contadorVogais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorVogais\obj\Debug\net9.0\contadorVogais.AssemblyInfoInputs.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorVogais\obj\Debug\net9.0\contadorVogais.AssemblyInfo.cs
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorVogais\obj\Debug\net9.0\contadorVogais.csproj.CoreCompileInputs.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorVogais\obj\Debug\net9.0\contadorVogais.sourcelink.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorVogais\obj\Debug\net9.0\contadorVogais.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorVogais\obj\Debug\net9.0\refint\contadorVogais.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorVogais\obj\Debug\net9.0\contadorVogais.pdb
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorVogais\obj\Debug\net9.0\contadorVogais.genruntimeconfig.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorVogais\obj\Debug\net9.0\ref\contadorVogais.dll

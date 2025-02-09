@@ -1,0 +1,15 @@
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\elementosFaltantes\obj\Debug\net9.0\elementosFaltantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\elementosFaltantes\obj\Debug\net9.0\elementosFaltantes.AssemblyInfoInputs.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\elementosFaltantes\obj\Debug\net9.0\elementosFaltantes.AssemblyInfo.cs
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\elementosFaltantes\obj\Debug\net9.0\elementosFaltantes.csproj.CoreCompileInputs.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\elementosFaltantes\obj\Debug\net9.0\elementosFaltantes.sourcelink.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\elementosFaltantes\bin\Debug\net9.0\elementosFaltantes.exe
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\elementosFaltantes\bin\Debug\net9.0\elementosFaltantes.deps.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\elementosFaltantes\bin\Debug\net9.0\elementosFaltantes.runtimeconfig.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\elementosFaltantes\bin\Debug\net9.0\elementosFaltantes.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\elementosFaltantes\bin\Debug\net9.0\elementosFaltantes.pdb
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\elementosFaltantes\obj\Debug\net9.0\elementosFaltantes.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\elementosFaltantes\obj\Debug\net9.0\refint\elementosFaltantes.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\elementosFaltantes\obj\Debug\net9.0\elementosFaltantes.pdb
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\elementosFaltantes\obj\Debug\net9.0\elementosFaltantes.genruntimeconfig.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\elementosFaltantes\obj\Debug\net9.0\ref\elementosFaltantes.dll

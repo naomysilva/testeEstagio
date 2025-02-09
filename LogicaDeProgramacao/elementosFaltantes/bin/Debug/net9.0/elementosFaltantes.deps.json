@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "elementosFaltantes/1.0.0": {
+        "runtime": {
+          "elementosFaltantes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "elementosFaltantes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

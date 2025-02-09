@@ -1,0 +1,15 @@
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorDatas\obj\Debug\net9.0\contadorDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorDatas\obj\Debug\net9.0\contadorDatas.AssemblyInfoInputs.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorDatas\obj\Debug\net9.0\contadorDatas.AssemblyInfo.cs
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorDatas\obj\Debug\net9.0\contadorDatas.csproj.CoreCompileInputs.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorDatas\obj\Debug\net9.0\contadorDatas.sourcelink.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorDatas\bin\Debug\net9.0\contadorDatas.exe
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorDatas\bin\Debug\net9.0\contadorDatas.deps.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorDatas\bin\Debug\net9.0\contadorDatas.runtimeconfig.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorDatas\bin\Debug\net9.0\contadorDatas.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorDatas\bin\Debug\net9.0\contadorDatas.pdb
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorDatas\obj\Debug\net9.0\contadorDatas.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorDatas\obj\Debug\net9.0\refint\contadorDatas.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorDatas\obj\Debug\net9.0\contadorDatas.pdb
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorDatas\obj\Debug\net9.0\contadorDatas.genruntimeconfig.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorDatas\obj\Debug\net9.0\ref\contadorDatas.dll

@@ -1,0 +1,15 @@
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorBusca\obj\Debug\net9.0\vetorBusca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorBusca\obj\Debug\net9.0\vetorBusca.AssemblyInfoInputs.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorBusca\obj\Debug\net9.0\vetorBusca.AssemblyInfo.cs
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorBusca\obj\Debug\net9.0\vetorBusca.csproj.CoreCompileInputs.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorBusca\obj\Debug\net9.0\vetorBusca.sourcelink.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorBusca\bin\Debug\net9.0\vetorBusca.exe
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorBusca\bin\Debug\net9.0\vetorBusca.deps.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorBusca\bin\Debug\net9.0\vetorBusca.runtimeconfig.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorBusca\bin\Debug\net9.0\vetorBusca.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorBusca\bin\Debug\net9.0\vetorBusca.pdb
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorBusca\obj\Debug\net9.0\vetorBusca.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorBusca\obj\Debug\net9.0\refint\vetorBusca.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorBusca\obj\Debug\net9.0\vetorBusca.pdb
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorBusca\obj\Debug\net9.0\vetorBusca.genruntimeconfig.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorBusca\obj\Debug\net9.0\ref\vetorBusca.dll

@@ -1,0 +1,15 @@
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorPares\bin\Debug\net9.0\vetorPares.exe
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorPares\bin\Debug\net9.0\vetorPares.deps.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorPares\bin\Debug\net9.0\vetorPares.runtimeconfig.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorPares\bin\Debug\net9.0\vetorPares.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorPares\bin\Debug\net9.0\vetorPares.pdb
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorPares\obj\Debug\net9.0\vetorPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorPares\obj\Debug\net9.0\vetorPares.AssemblyInfoInputs.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorPares\obj\Debug\net9.0\vetorPares.AssemblyInfo.cs
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorPares\obj\Debug\net9.0\vetorPares.csproj.CoreCompileInputs.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorPares\obj\Debug\net9.0\vetorPares.sourcelink.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorPares\obj\Debug\net9.0\vetorPares.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorPares\obj\Debug\net9.0\refint\vetorPares.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorPares\obj\Debug\net9.0\vetorPares.pdb
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorPares\obj\Debug\net9.0\vetorPares.genruntimeconfig.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\vetorPares\obj\Debug\net9.0\ref\vetorPares.dll
