@@ -1,0 +1,15 @@
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorPrimos\obj\Debug\net9.0\contadorPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorPrimos\obj\Debug\net9.0\contadorPrimos.AssemblyInfoInputs.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorPrimos\obj\Debug\net9.0\contadorPrimos.AssemblyInfo.cs
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorPrimos\obj\Debug\net9.0\contadorPrimos.csproj.CoreCompileInputs.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorPrimos\obj\Debug\net9.0\contadorPrimos.sourcelink.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorPrimos\bin\Debug\net9.0\contadorPrimos.exe
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorPrimos\bin\Debug\net9.0\contadorPrimos.deps.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorPrimos\bin\Debug\net9.0\contadorPrimos.runtimeconfig.json
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorPrimos\bin\Debug\net9.0\contadorPrimos.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorPrimos\bin\Debug\net9.0\contadorPrimos.pdb
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorPrimos\obj\Debug\net9.0\contadorPrimos.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorPrimos\obj\Debug\net9.0\refint\contadorPrimos.dll
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorPrimos\obj\Debug\net9.0\contadorPrimos.pdb
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorPrimos\obj\Debug\net9.0\contadorPrimos.genruntimeconfig.cache
+C:\Users\naomy\OneDrive\Documentos\TesteEstagio\LogicaDeProgramacao\contadorPrimos\obj\Debug\net9.0\ref\contadorPrimos.dll
